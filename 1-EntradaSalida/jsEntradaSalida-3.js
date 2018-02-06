@@ -2,6 +2,14 @@
 y luego mostrarlo por 'Alert' al presionar el botón  'MOSTRAR'*/
 function Mostar()
 {
+	//alert("Esto anda");
+	var nombre;
+
+	nombre=document.getElementById('elNombre').value;
+	//.value siempre al final
+	
+	alert(nombre);
+
 	
 }
 
