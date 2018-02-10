@@ -4,27 +4,9 @@ function Mostar()
 {
 	var nombre;
 
-	nombre=prompt("ingrese nombre","Pablo");
+	nombre=prompt("ingrese nombre");
 
 	alert("Su nombre es: "+nombre);
-
-	//esto es un comentario de una linea
-
-	//alert (nombre);
-
-	/*
-
-	esto es un bloque
-
-	alert ("nombre");
-
-	nombre="Pablo";
-
-	alert(nombre);
-	
-	*/
-
-	//var person = prompt("Please enter your name", "Harry Potter");
 
 }
 

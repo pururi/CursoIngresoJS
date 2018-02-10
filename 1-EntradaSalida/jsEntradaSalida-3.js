@@ -9,8 +9,6 @@ function Mostar()
 	//.value siempre al final
 	
 	alert(nombre);
-
-	
 }
 
 
